@@ -15,10 +15,8 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Taha Khaled
-- A S𝗼𝗳𝘁𝘄𝗮𝗿𝗲 E𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻
-- 𝘄𝗵𝗼'𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 M𝘂𝘀𝗶𝗰 𝗮𝗻𝗱 O𝗽𝗲𝗻 S𝗼𝘂𝗿𝗰𝗲. 
-- Currently working on some of my cool side projects based on Web Development.
-- I'm currently looking for opportunities.
+- A Frontend E𝗻𝗴𝗶𝗻𝗲𝗲𝗿 (Reactjs) 👨‍💻
+- 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 M𝘂𝘀𝗶𝗰 𝗮𝗻𝗱 O𝗽𝗲𝗻 S𝗼𝘂𝗿𝗰𝗲. 
 - I love to learn and contribute in any and every possible way.
 - 💻 &nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
