@@ -18,7 +18,7 @@
 - A Frontend E𝗻𝗴𝗶𝗻𝗲𝗲𝗿 (Reactjs) 👨‍💻
 - 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 M𝘂𝘀𝗶𝗰 𝗮𝗻𝗱 O𝗽𝗲𝗻 S𝗼𝘂𝗿𝗰𝗲. 
 - I love to learn and contribute in any and every possible way.
-- Reactjs Nextjs JavaScript TypeScript TailwindCSS SCSS Matrial-UI NX.js (Micro-Frontend).
+- Reactjs Nextjs JavaScript TypeScript TailwindCSS SCSS Matrial-UI NX.js single-spa (Micro-Frontend).
 - 💻 &nbsp;
 ![MicroFrontend](https://img.shields.io/badge/MicroFrontend-8A2BE2)
 ![reactSpec](https://img.shields.io/badge/MonoRepo-8A2002)
