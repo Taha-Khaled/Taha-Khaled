@@ -20,7 +20,7 @@
 - I love to learn and contribute in any and every possible way.
 - Reactjs Nextjs JavaScript TypeScript TailwindCSS SCSS Matrial-UI NX.js (Micro-Frontend).
 - 💻 &nbsp;
-![MicroFrontend](https://img.shields.io/badge/c%23-%20-green)
+![MicroFrontend](https://img.shields.io/badge/MicroFrontend-8A2BE2)
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
