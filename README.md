@@ -21,7 +21,7 @@
 - Reactjs Nextjs JavaScript TypeScript TailwindCSS SCSS Matrial-UI NX.js (Micro-Frontend).
 - 💻 &nbsp;
 ![MicroFrontend](https://img.shields.io/badge/MicroFrontend-8A2BE2)
-
+![reactSpec](https://img.shields.io/badge/MonoRepo-8A2002)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
